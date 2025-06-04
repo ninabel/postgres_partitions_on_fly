@@ -1,1 +1,1 @@
-# postgres_partitions_on_fly
+PostgreSQL partitioning on the fly
